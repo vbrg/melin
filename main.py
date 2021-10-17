@@ -46,7 +46,6 @@ for letter, n, terminate in word:
         plt.plot(p[:, 0], p[:, 1], '--')
         plt.gca().set_aspect('equal')
         plt.pause(0.001)
-        #plt.savefig('{}.png'.format(c))
     zero = tp
 plt.ioff()
 plt.plot(t[:, 0], t[:, 1])
