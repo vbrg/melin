@@ -17,3 +17,4 @@ Letters and abbreviations are stored as bezier curves and stitched together by j
  - implement variable speed controller for each letter. Right now everything is linear
  - add a way to write sentences and not only words. 
  - add the notion of 'skrivlinje'
+ - add more letters and abbreviations
